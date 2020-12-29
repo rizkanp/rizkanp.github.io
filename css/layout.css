@@ -327,27 +327,27 @@ ul#nav li.current a { color: rgb(204, 29, 29); }
 }
 
 .php {
-  	width: 50%;
+  	width: 35%;
   	-moz-animation: php 2s ease;
   	-webkit-animation: php 2s ease;
 }
 .laravel {
-  	width: 40%;
+  	width: 35%;
   	-moz-animation: laravel 2s ease;
   	-webkit-animation: laravel 2s ease;
 }
 .mysql {
-  	width: 40%;
+  	width: 35%;
   	-moz-animation: mysql 2s ease;
   	-webkit-animation: mysql 2s ease;
 }
 .codeigneiter {
-  	width: 40%;
+  	width: 35%;
   	-moz-animation: codeigneiter 2s ease;
   	-webkit-animation: codeigneiter 2s ease;
 }
 .bootstrap {
-  	width: 50%;
+  	width: 35%;
   	-moz-animation: bootstrap 2s ease;
   	-webkit-animation: bootstrap 2s ease;
 }
@@ -364,13 +364,13 @@ ul#nav li.current a { color: rgb(204, 29, 29); }
 }
 
 .javascript{
-   width: 45%;
+   width: 35%;
    -moz-animation: javascript 2s ease;
    -webkit-animation: javascript 2s ease;
 }
 
 .python{
-   width: 60%;
+   width: 35%;
    -moz-animation: python 2s ease;
    -webkit-animation: python 2s ease;
 }
@@ -378,7 +378,7 @@ ul#nav li.current a { color: rgb(204, 29, 29); }
 
 @-moz-keyframes php {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 35%;  }
 }
 @-moz-keyframes laravel {
   0%   { width: 0px;  }
@@ -386,7 +386,7 @@ ul#nav li.current a { color: rgb(204, 29, 29); }
 }
 @-moz-keyframes mysql {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 35%;  }
 }
 @-moz-keyframes codeigneiter {
   0%   { width: 0px;  }
@@ -394,7 +394,7 @@ ul#nav li.current a { color: rgb(204, 29, 29); }
 }
 @-moz-keyframes bootstrap {
   0%   { width: 0px;  }
-  100% { width: 45%;  }
+  100% { width: 35%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
@@ -406,18 +406,18 @@ ul#nav li.current a { color: rgb(204, 29, 29); }
 }
 @-moz-keyframes javascript {
    0%   { width: 0px;  }
-   100% { width: 45%;  }
+   100% { width: 35%;  }
 }
 @-moz-keyframes python {
    0%   { width: 0px;  }
-   100% { width: 45%;  }
+   100% { width: 35%;  }
 }
 
 
 
 @-webkit-keyframes  php {
    0%   { width: 0px;  }
-   100% { width: 40%;  }
+   100% { width: 35%;  }
  }
  @-webkit-keyframes  laravel {
    0%   { width: 0px;  }
@@ -425,7 +425,7 @@ ul#nav li.current a { color: rgb(204, 29, 29); }
  }
  @-webkit-keyframes  mysql {
    0%   { width: 0px;  }
-   100% { width: 40%;  }
+   100% { width: 35%;  }
  }
  @-webkit-keyframes  codeigneiter {
    0%   { width: 0px;  }
@@ -433,7 +433,7 @@ ul#nav li.current a { color: rgb(204, 29, 29); }
  }
  @-webkit-keyframes  bootstrap {
    0%   { width: 0px;  }
-   100% { width: 45%;  }
+   100% { width: 35%;  }
  }
  @-webkit-keyframes  css {
    0%   { width: 0px;  }
@@ -449,7 +449,7 @@ ul#nav li.current a { color: rgb(204, 29, 29); }
  }
  @-webkit-keyframes  python {
     0%   { width: 0px;  }
-    100% { width: 45%;  }
+    100% { width: 35%;  }
  }
 
 
